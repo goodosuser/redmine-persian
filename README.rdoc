@@ -1,3 +1,12 @@
+=ردماین
+
+ردماین یک نرم افزار مدیریت پروژه تحت وب است که با استفاده از روبی روی چارچوب ریلز نوشته شده است.
+
+اطلاعات بیشتر در شاخه مستندات یا وب سایت رسمی آن قابل مشاهده است
+
+تقویم جلالی(شمسی) و قلم های فارسی در ردماین اضافه شد.
+
+
 = Redmine
 
 Redmine is a flexible project management web application written using Ruby on Rails framework.
